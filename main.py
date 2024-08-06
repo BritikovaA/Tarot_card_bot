@@ -1,6 +1,7 @@
 import telebot
 import random
-from PIL import Image
+import datetime
+from telebot import types
 
 
 token = 'token'
